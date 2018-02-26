@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/StartSong.mp3</SourceFile>
+  <SourceTime>2018-01-07T13:25:38.9045076-05:00</SourceTime>
+  <DestFile>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/bin/Windows/Music/StartSong.xnb</DestFile>
+  <DestTime>2018-01-07T13:35:58.9381814-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/bin/Windows/Music/StartSong.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

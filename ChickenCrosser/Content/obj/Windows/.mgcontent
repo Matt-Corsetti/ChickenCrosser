@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/ChickenCrossBackground.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/StartScene.png</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Fonts/highlightFont.spritefont</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Chicken.png</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Wolf.png</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/HowToPlay.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/About.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Help.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Action.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/MenuSelect.wav</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/StartSong.mp3</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/ChickenSound.wav</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/WolfSound.wav</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/GameOver.wav</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Start.jpg</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Fonts/AttemptFont.spritefont</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Fonts/TryFont.spritefont</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Images/Celebration.png</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/Explosion.wav</File>
+    <File>C:/Users/mattj/Desktop/ChickenCrosser/ChickenCrosser/Content/Music/Fireworks.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
